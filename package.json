@@ -1,0 +1,26 @@
+{
+  "name": "meantodo",
+  "version": "1.0.0",
+  "description": "TaskLog designed to assign task to the people in a team using Angular II and FeatherJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armining/TaskLog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "*",
+    "express":"*",
+    "mongojs":"*",
+    "path": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/armining/TaskLog/issues"
+  },
+  "homepage": "https://github.com/armining/TaskLog#readme"
+}
